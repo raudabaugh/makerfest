@@ -1,26 +1,26 @@
 inc:
   # Blog Information
-  title:        "LabHack"
-  subtitle:     "October 25 - 26, 2014"
+  title:        "Maker Fest"
+  subtitle:     "March 14, 2015"
   cover_image:  blog-cover.jpg
   logo:        afrl_logo_sm.png 
 
   # Company information
-  company:     LabHack
+  company:     Maker Fest
   url:         http://www.wpafb.af.mil/AFRL/ 
-  facebook:    airforcehackathon 
-  twitter:     aflabhack
+  facebook:    '' 
+  twitter:     ''
   gplus:        ''
   about_link:   about
 
   # Product Information
-  product_link: http://www.eventbrite.com/e/labhack-tickets-11292755937 
-  tagline:      "The Air Force Hackathon and Mini-Conference"
+  product_link: https://www.eventbrite.com/e/maker-fest-tickets-15670121756
+  tagline:      "Where It's Cool To Be Irrational"
 
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  labhack
+    shortname:  makerfest
 
   # Sharing settings
   sharing:
@@ -41,7 +41,7 @@ inc:
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:        http://www.labhack.org 
+url:        http://www.afmakerfest.org 
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -64,11 +64,11 @@ exclude:
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-username: codefordayton
-repo: labhack 
+username: raudabaugh
+repo: makerfest 
 branch: master 
 
-relative_source: ../labhack/
+relative_source: ../makerfest/
 
 timezone:    nil
 
