@@ -28,9 +28,6 @@ layout: base
         {% capture uid %}{% increment uid %}{% endcapture %}
     {% endfor %}
 </div>
-        {% if site.inc.disqus.shortname %}
-            {% include _disqus.html %}
-        {% endif %}
 </div>
 </article>
 

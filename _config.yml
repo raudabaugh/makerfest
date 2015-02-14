@@ -17,11 +17,6 @@ inc:
   product_link: https://www.eventbrite.com/e/maker-fest-tickets-15670121756
   tagline:      "Where It's Cool To Be Irrational"
 
-  # Comments
-  disqus:
-    # Eg. "exampleblog" Set to false to disable comments
-    shortname:  makerfest
-
   # Sharing settings
   sharing:
     twitter:   false 
