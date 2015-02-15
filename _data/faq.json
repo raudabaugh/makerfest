@@ -1,42 +1,34 @@
 [{
-"question": "Can high school students attend?",
-"answer":"Yes! We'd love to have younger students involved with the event. Attendees under the age of 18 need to be accompanied by an adult guardian and are not allowed to stay over night (between 11PM and 6AM) on site."
+"question": "What is a Maker Fest, anyway? What are you making?",
+"answer":"We are leaving this very open ended. It could be anything from hobby electronics to 3D printing to arts and crafts. See <a href='http://www.instructables.com'>Instructables.com</a> for some good examples. Basically, we want you to show us anything cool you have made in your free time. Because it's International Pi Day, expect to see a lot of <a href='http://www.raspberrypi.org'>Raspberry Pi</a> projects, though <a href='http://www.arduino.cc'>Arduino</a> and <a href='http://beagleboard.org'>BeagleBone</a> are certainly welcome too!"
 }
 ,{
-"question":"What programming languages will be used? (MATLAB, C/C++, Python, etc.)?",
-"answer":"Programming languages are at the discretion of the participants. Our only requirement is that the language tools (compiler, linker, etc) are free and open-source, available to all participants."
+"question":"Can I bring my kids?",
+"answer":"Yes. This event is for all ages - though high school and up would probably get the most out of it."
 }
 ,{
-"question": "Will computers and other equipment be provided?",
-"answer": "Participants should bring their own computers and other equipment. Some demonstration tools may be available during workshops."
+"question": "Will materials be provided?",
+"answer": "Possibly - we are working with local maker groups on this - stay tuned!"
 }
 ,{
-	"question":"Will the hackathon sponsor travel arrangements at all for out of town participants?",
-	"answer":"We provide male and female designated sleeping quarters for participants 18 years or older. Minors will not be allowed to stay on premise during the night, but there are a number of inexpensive hotels nearby.
-
-Participants staying on-site should bring their own sleeping supplies and toiletries (sleeping bag, pillow, PJs, Spider Man toothbrush, etc). We do not have shower facilities on site.
-
-We have plenty of snacks and drinks and a midnight meal to keep participants from getting hungry."
+	"question":"Are projects supposed to be started already?",
+	"answer":"Ideally, though there will be some hands-on tutorials for those who want to start something from scratch."
 }
 ,{
-	"question":"I don't see any way to register as a team, so we should all just register individually then get together at the start of the hackathon?"
-	,"answer":"Yes, each team member will need to get a ticket on [Eventbrite](http://labhack.eventbrite.com/). We use this to plan food/drink and other resources."
+	"question":"Will ideas for projects be given?"
+	,"answer":"We are encouraging the community to send their ideas for projects they'd like to see <a href='http://goo.gl/forms/tZNLKRhJtb'>here</a>."
 }
 ,{
-	"question":"How big is the competition expected to be? How many participants are there?"
-	,"answer":"We have 65 registered hackathon participants. Additionally, we're providing Day Passes so that people may attend workshops on Saturday and experience LabHack without participating in the hackathon. Total attendance will exceed 100 people."
+	"question":"How big is the event expected to be? How many participants are there?"
+	,"answer":"We have 90 registered participants. Total attendance will exceed 100 people."
 },
 {
-	"question":"Do I have to stay overnight?"
-	,"answer":"Absolutely not. You're free to come and go as you please. Doors will be locked and controlled for security and only authorized attendees will be allowed to enter the Tec^Edge facility."
+	"question":"Do I need a ticket?"
+	,"answer":"Absolutely not. You're free to come and go as you please. However, we encourage you to register in advance to help us estimate attendance."
 }
 ,{
 	"question":"Is there a floor plan for Tec^Edge?"
 	,"answer":"Yes, see <a href='https://drive.google.com/file/d/0B0U6iWSagff4MktaRWQ5S3Z2VG8/view?usp=sharing'>here</a>"
-}
-,{
-	"question":"Is there a uniform-of-the-day for military or may we all just come in comfy civvies?"
-	,"answer":"Uniform of the Day is super hero or internet meme t-shirt of your choice. Comfy clothing required. BDUs permitted only if they allow you to blend in with the office furniture."
 }
 ,{
 	"question":"What room will presentations be made in?"
@@ -44,8 +36,13 @@ We have plenty of snacks and drinks and a midnight meal to keep participants fro
 
 }
 ,{
-	"question":"What kinds of connectors and gear do we need for presentations"
+	"question":"What kinds of connectors and gear do we need for presentations?"
 	,"answer":"
-There are VGA and HDMI cables as well as standard 3.5mm audio mini jacks for the A/V system. Plan on bringing your own adapters (e.g. for macbook)."
+There are VGA and HDMI cables as well as standard 3.5mm audio mini jacks for the A/V system. Plan on bringing your own adapters (e.g. for MacBook)."
+}
+,{
+	"question":"Is food provided?"
+	,"answer":"
+Food will be available for purchase via the <a href='https://www.facebook.com/harvestmobile1'>Harvest Mobile Cuisine</a> food truck from 11am - 2pm."
 }
 ]
