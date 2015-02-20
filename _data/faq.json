@@ -20,7 +20,7 @@
 }
 ,{
 	"question":"How big is the event expected to be? How many participants are there?"
-	,"answer":"We have 90 registered participants. Total attendance will exceed 100 people."
+	,"answer":"We have 100 registered participants. Total attendance will exceed 120 people."
 },
 {
 	"question":"Do I need a ticket?"
@@ -44,5 +44,9 @@ There are VGA and HDMI cables as well as standard 3.5mm audio mini jacks for the
 	"question":"Is food provided?"
 	,"answer":"
 Food will be available for purchase via the <a href='https://www.facebook.com/harvestmobile1'>Harvest Mobile Cuisine</a> food truck from 11am - 2pm."
+},{
+	"question":"What booth space is available to exhibitors? Is it free?"
+	,"answer":"
+Booth space is free, and currently there is no shortage. Just let us know via the <a href='http://goo.gl/forms/tZNLKRhJtb'>Google form</a> how much you need."
 }
 ]
