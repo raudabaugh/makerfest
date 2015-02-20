@@ -47,6 +47,11 @@ layout: base
             <td>Jeffrey Opt, FabSpace: What is a Makerspace?</td>
         </tr>
         <tr class="success">
+            <td>12:00 PM</td>
+            <td>3:00 PM</td>
+            <td>Dayton Linux SIG: Linux Installfest (bring your Raspberry Pi, tablet, laptop, etc.)</td>
+        </tr>
+        <tr class="success">
             <td>1:00 PM</td>
             <td>1:30 PM</td>
             <td>Alexander Kinkade, Wright State: 3D Printing - An Introduction for the Average Consumer</td>
