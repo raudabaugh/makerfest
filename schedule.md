@@ -19,6 +19,10 @@ layout: base
             <td>9:26 AM</td>
             <td>Doors Open</td>
         </tr>
+        <tr class="success">
+            <td>10:00 AM</td>
+            <td>Bryan Adams: CNC Machining Demo</td>
+        </tr>
         <tr class="info">
             <td>11:00 AM</td>
             <td>Lunch: Harvest Food Truck</td>
@@ -28,8 +32,16 @@ layout: base
             <td>Jeffrey Opt: What is a Makerspace?</td>
         </tr>
         <tr class="success">
+            <td>12:00 PM</td>
+            <td>Bryan Adams: Learn to Solder ($4/person)</td>
+        </tr>
+        <tr class="success">
             <td>1:00 PM</td>
             <td>Alexander Kinkade: 3D Printing - An Introduction for the Average Consumer</td>
+        </tr>
+        <tr class="success">
+            <td>2:00 PM</td>
+            <td>Bryan Adams: CNC Machining Demo</td>
         </tr>
     </tbody>
 </table>
