@@ -52,6 +52,11 @@ layout: base
             <td>Dayton Linux SIG: Linux Installfest (bring your Raspberry Pi, tablet, laptop, etc.)</td>
         </tr>
         <tr class="success">
+            <td>12:30 PM</td>
+            <td>1:00 PM</td>
+            <td>William Curtice, Miami Valley Mesh Alliance: Introduction to Hamnet Mesh Networks</td>
+        </tr>
+        <tr class="success">
             <td>1:00 PM</td>
             <td>1:30 PM</td>
             <td>Alexander Kinkade, Wright State: 3D Printing - An Introduction for the Average Consumer</td>
