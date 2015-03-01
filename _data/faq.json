@@ -1,8 +1,4 @@
 [{
-"question": "What is a Maker Fest, anyway? What are you making?",
-"answer":"We are leaving this very open ended. It could be anything from hobby electronics to 3D printing to arts and crafts. See <a href='http://www.instructables.com'>Instructables.com</a> for some good examples. Basically, we want you to show us anything cool you have made in your free time. Because it's International Pi Day, expect to see a lot of <a href='http://www.raspberrypi.org'>Raspberry Pi</a> projects, though <a href='http://www.arduino.cc'>Arduino</a> and <a href='http://beagleboard.org'>BeagleBone</a> are certainly welcome too!"
-}
-,{
 "question":"Can I bring my kids?",
 "answer":"Yes. This event is for all ages - though high school and up would probably get the most out of it."
 }
@@ -20,7 +16,7 @@
 }
 ,{
 	"question":"How big is the event expected to be? How many participants are there?"
-	,"answer":"We have 90 registered participants. Total attendance will exceed 100 people."
+	,"answer":"We have 160 registered participants. Total attendance will exceed 180 people."
 },
 {
 	"question":"Do I need a ticket?"
