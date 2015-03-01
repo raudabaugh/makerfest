@@ -36,5 +36,16 @@ is_front: true
 
     For more questions and answers, see our <a href="/faq">FAQ</a>.
 </section>
+<hr/>
+<div id="funding-donors" class="row logos">
+    <h2 class="text-center">Sponsors</h2>
+    {% for donor in site.data.donors %} {% if donor.type != "in-kind" %}
+    <div class="col-xs-12 col-sm-6 col-md-4 display-block">
+        <a href="{{ donor.url }}">
+            <img src="{{ donor.logo | asset_path }}" alt="{{ donor.name }}" class="img-responsive" />
+        </a>
+    </div>
+    {% endif %} {% endfor %}
+</div>
 
 </div>
