@@ -28,6 +28,11 @@ layout: base
         </tr>
         <tr class="success">
             <td>10:00 AM</td>
+            <td>3:00 PM</td>
+            <td>Dayton Linux SIG: Linux Installfest (bring your Raspberry Pi, tablet, laptop, etc.)</td>
+        </tr>
+        <tr class="success">
+            <td>10:00 AM</td>
             <td>10:30 AM</td>
             <td>Bryan Adams, Tinkr Tech: CNC Machining Demo</td>
         </tr>
@@ -47,11 +52,6 @@ layout: base
             <td>Jeffrey Opt, FabSpace: What is a Makerspace?</td>
         </tr>
         <tr class="success">
-            <td>12:00 PM</td>
-            <td>3:00 PM</td>
-            <td>Dayton Linux SIG: Linux Installfest (bring your Raspberry Pi, tablet, laptop, etc.)</td>
-        </tr>
-        <tr class="success">
             <td>12:30 PM</td>
             <td>1:00 PM</td>
             <td>William Curtice, Miami Valley Mesh Alliance: Introduction to Hamnet Mesh Networks</td>
@@ -59,7 +59,7 @@ layout: base
         <tr class="success">
             <td>1:00 PM</td>
             <td>1:30 PM</td>
-            <td>Alexander Kinkade, Wright State: 3D Printing - An Introduction for the Average Consumer</td>
+            <td>Alexander Kinkade, Dr. Emily Fehrman Cory, Ryan Plumley: 3D Printing Lightning Talks and Panel Discussion</td>
         </tr>
         <tr class="success">
             <td>2:00 PM</td>

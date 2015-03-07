@@ -1,28 +1,41 @@
 ---
-layout: base
+layout: prize 
+
+title: Prizes
 ---
 <div class="container">
-    {% for prize in site.prizes %}
-    <div class="row">
-            <div class="prize-icon col-sm-2">
-                <a href="{{prize.url}}">
-                    <img src="{{prize.sponsor.icon | asset_path }}" alt="{{prize.sponsor.name}} Icon" />
-                </a>
-            </div>
-            <div class="col-sm-10">
-            <h2 class="title"><a href="{{ prize.url }}" rel="prefetch">{{ prize.title }}</a>
-            </h2>
-            <div class="meta">
-                <a href="{{prize.sponsor.url}}" target="_blank">Sponsored by
-                <address>{{ prize.sponsor.name }}
-                </address></a>
-            </div>
-            <div class="excerpt">
-                {{ prize.content | markdownify | strip_html | truncatewords:20}}
-                <a href="{{ prize.url }}">read more</a>
-            </div>
-        </div>
-    <hr class="divider">
-</div>
-    {% endfor %}
+<a href="http://www.adafruit.com"><img class="img-responsive pull-right" src="{{ 'adafruit_sm.png' | asset_path }}" title="Adafruit" style="max-height: 300px; display: inline-block; margin-left: 5px;"/></a>
+
+<p>
+We're very happy to announce that 2 Raspberry Pi B+ Packs will be offered as raffle prizes, courtesy of Adafruit Industries!</p>
+
+<p>
+B+ Prize Packs Include:</p>
+
+<ul>
+    <li>Raspberry Pi Model B+ Board</li>
+    <li>4GB microSD card</li>
+    <li>USB cable</li>
+</ul>
+
+Plus, all attendees will receive a coupon good for 10% off their next order at Adafruit!
+<hr class="divider">
+<a href="http://www.mcmelectronics.com"><img class="img-responsive pull-right" src="{{ 'mcm.png' | asset_path }}" title="MCM" style="max-height: 300px; display: inline-block; margin-left: 5px;"/></a>
+
+<p>
+MCM Electronics has generously donated 3 <a href="http://www.mcmelectronics.com/product/83-16552RK" target="_blank">Raspberry Pi Starter Kits</a> as raffle prizes!</p>
+
+<p>
+Pi Starter Kits Include:</p>
+
+<ul>
+    <li> Raspberry Pi 2 Model B Board</li>
+    <li> Multicomp Clear Pi 2 Model B Case</li>
+    <li> 8GB Operating System microSD Card</li>
+    <li> Raspberry Pi Power Supply</li>
+    <li> 36 Page Raspberry Pi User Guide</li>
+</ul>
+
+<p>
+In addition, MCM will also have some other giveaway items at their table!</p>
 </div>
