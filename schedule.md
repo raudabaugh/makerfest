@@ -49,7 +49,7 @@ layout: base
         <tr class="success">
             <td>12:00 PM</td>
             <td>12:30 PM</td>
-            <td>Jeffrey Opt, FabSpace: What is a Makerspace?</td>
+            <td>Joe McKibben: Dayton Diode - Dayton's Makerspace</td>
         </tr>
         <tr class="success">
             <td>12:30 PM</td>
