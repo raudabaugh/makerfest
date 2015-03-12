@@ -62,6 +62,11 @@ layout: base
             <td>Alexander Kinkade, Dr. Emily Fehrman Cory, Ryan Plumley: 3D Printing Lightning Talks and Panel Discussion</td>
         </tr>
         <tr class="success">
+            <td>1:30 PM</td>
+            <td>2:00 PM</td>
+            <td>Eric Vinande: Raspberry Pi Basics</td>
+        </tr>
+        <tr class="success">
             <td>2:00 PM</td>
             <td>2:30 PM</td>
             <td>Bryan Adams, Tinkr Tech: CNC Machining Demo</td>
