@@ -74,7 +74,7 @@ layout: base
         <tr class="success">
             <td>1:00 PM</td>
             <td>1:30 PM</td>
-            <td>Dr. Emily Fehrman Cory, Ryan Plumley: 3D Printing Lightning Talks and Panel Discussion</td>
+            <td>Dr. Emily Fehrman Cory, Ryan Plumley, Bryan Adams, Andy Ford, Nick Del Ghingaro: 3D Printing Lightning Talks and Panel Discussion</td>
             <td>Einstein</td>
         </tr>
         <tr class="success">
