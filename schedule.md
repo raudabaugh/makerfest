@@ -6,9 +6,10 @@ layout: base
     <div class="container">
         <div class="page-header">
         <h2>Schedule (subject to change)</h2>
-        <h3>Saturday, 14 March 2015</h3>
+        <h3>Saturday, 12 March 2016</h3>
     </div>
-
+    <p>Check back soon for the 2016 Schedule!</p>
+<!--
 <table class="table">
     <tbody>
         <tr>
@@ -91,5 +92,6 @@ layout: base
         </tr>
     </tbody>
 </table>
+-->
 </div>
 </section>
