@@ -1,5 +1,5 @@
 [
-{
+/*{
     "name": "Adafruit",
     "logo":"adafruit_sm.png",
     "url": "http://adafruit.com/",
@@ -27,5 +27,5 @@
     "type": "gold",
     "donation": "Tec^Edge Location"
 }
-
+*/
 ]
