@@ -1,25 +1,4 @@
 [
-/*{
-    "name": "Adafruit",
-    "logo":"adafruit_sm.png",
-    "url": "http://adafruit.com/",
-    "type": "gold",
-    "donation": "Prizes"
-},
-{
-    "name": "Air Force Research Laboratory",
-    "logo":"afrl_badge.jpg",
-    "url": "http://www.wpafb.af.mil/AFRL/",
-    "type": "gold",
-    "donation": "Organization for event, presentation and volunteers"
-},
-{
-    "name": "MCM Electronics",
-    "logo":"mcm.png",
-    "url": "http://www.mcmelectronics.com",
-    "type": "gold",
-    "donation": "Prizes"
-},*/
 {
     "name": "Wright Brothers Institute",
     "logo":"wbi_logo.png",
