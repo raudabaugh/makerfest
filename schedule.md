@@ -8,8 +8,7 @@ layout: base
         <h2>Schedule (subject to change)</h2>
         <h3>Saturday, 12 March 2016</h3>
     </div>
-    <p>Check back soon for the 2016 Schedule!</p>
-<!--
+
 <table class="table">
     <tbody>
         <tr>
@@ -19,29 +18,30 @@ layout: base
             <th>Location</th>
         </tr>
         <tr class="success">
+            <td>8:00 AM</td>
             <td>9:00 AM</td>
-            <td>11:00 AM</td>
-            <td>Southern Ohio Forging Alliance: Blacksmithing Demo</td>
-            <td>Parking Lot</td>
+            <td>Exhibitor Setup</td>
+            <td>Respective Booths</td>
         </tr>
         <tr >
-            <td>9:26 AM</td>
+            <td>9:00 AM</td>
             <td></td>
-            <td>Doors Open</td>
+            <td>Opening Remarks</td>
             <td></td>
         </tr>
         <tr class="success">
             <td>10:00 AM</td>
-            <td>3:00 PM</td>
-            <td>Bryan Adams, Tinkr Tech: 3D Printing Demo</td>
-            <td>Atrium</td>
+            <td></td>
+            <td>Jim Charters</td>
+            <td>TBD</td>
         </tr>
         <tr class="success">
-            <td>10:00 AM</td>
-            <td>3:00 PM</td>
-            <td>Dayton Linux SIG: Linux Installfest (bring your Raspberry Pi, tablet, laptop, etc.)</td>
-            <td>Founders</td>
+            <td>1:00 PM</td>
+            <td>2:00 PM</td>
+            <td>Mesh Networking Demo by Miami Valley Mesh Alliance (MVMA) and Dayton Amateur Radio Association</td>
+            <td>TBD</td>
         </tr>
+        <!--
         <tr class="success">
             <td>10:00 AM</td>
             <td>10:30 AM</td>
@@ -54,6 +54,7 @@ layout: base
             <td>Lunch: Harvest Food Truck</td>
             <td>Parking Lot</td>
         </tr>
+        <!--
         <tr class="success">
             <td>11:00 AM</td>
             <td>2:00 PM</td>
@@ -90,8 +91,8 @@ layout: base
             <td>Bryan Adams, Tinkr Tech: CNC Machining Demo</td>
             <td>Atrium</td>
         </tr>
+        -->
     </tbody>
 </table>
--->
 </div>
 </section>

@@ -5,5 +5,12 @@
     "url": "http://www.wbi-icc.com",
     "type": "gold",
     "donation": "Tec^Edge Location"
+},
+{
+    "name": "MCM Electronics",
+    "logo":"mcm.png",
+    "url": "http://www.mcmelectronics.com",
+    "type": "gold",
+    "donation": "2 Prototype Starter Kits"
 }
 ]

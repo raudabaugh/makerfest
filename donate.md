@@ -19,4 +19,4 @@ In return for in-kind support your organization will be thanked in communication
 * Logo on at least one (1) email follow-up to registered attendees, post-event
 * Public mentions on social media
 
-If you are able to offer any of these services, please <a href="/contact">contact us</a>.
+If you are able to offer any of these services, please <a href="mailto:makeitdayton@gmail.com">contact us</a>.
