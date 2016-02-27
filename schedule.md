@@ -27,19 +27,37 @@ layout: base
             <td>9:00 AM</td>
             <td></td>
             <td>Opening Remarks</td>
-            <td></td>
+            <td>Lobby</td>
+        </tr>
+        <tr class="success">
+            <td>9:30 AM</td>
+            <td>11:30 AM</td>
+            <td>Miami Valley Mesh Alliance (MVMA) monthly meeting (public welcome)</td>
+            <td>Stafford Room</td>
         </tr>
         <tr class="success">
             <td>10:00 AM</td>
             <td></td>
-            <td>Jim Charters</td>
-            <td>TBD</td>
+            <td>History of Making and Invention in Dayton by Jim Charters </td>
+            <td>Einstein Room</td>
+        </tr>
+        <tr class="success">
+            <td>12:00 PM</td>
+            <td>2:00 PM</td>
+            <td>Knitting Guild Meetup</td>
+            <td>Stafford Room</td>
         </tr>
         <tr class="success">
             <td>1:00 PM</td>
             <td>2:00 PM</td>
             <td>Mesh Networking Demo by Miami Valley Mesh Alliance (MVMA) and Dayton Amateur Radio Association</td>
+            <td>Einstein Room</td>
+        </tr>
+        <tr class="success">
             <td>TBD</td>
+            <td></td>
+            <td>Rail Gun Project by David Wirth</td>
+            <td>Einstein Room</td>
         </tr>
         <!--
         <tr class="success">
@@ -54,7 +72,6 @@ layout: base
             <td>Lunch: Harvest Food Truck</td>
             <td>Parking Lot</td>
         </tr>
-        <!--
         <tr class="success">
             <td>11:00 AM</td>
             <td>2:00 PM</td>
