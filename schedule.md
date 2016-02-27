@@ -23,7 +23,7 @@ layout: base
             <td>Exhibitor Setup</td>
             <td>Respective Booths</td>
         </tr>
-        <tr >
+        <tr class="success">
             <td>9:00 AM</td>
             <td></td>
             <td>Opening Remarks</td>
