@@ -38,7 +38,7 @@ layout: base
         <tr class="success">
             <td>10:00 AM</td>
             <td></td>
-            <td>History of Making and Invention in Dayton by Jim Charters </td>
+            <td>History of Making and Invention in Dayton by Jim Charters (Admission Tickets to Carillon Historical Park to be raffled after presentation)</td>
             <td>Einstein Room</td>
         </tr>
         <tr class="success">
@@ -58,6 +58,12 @@ layout: base
             <td></td>
             <td>Rail Gun Project by David Wirth</td>
             <td>Einstein Room</td>
+        </tr>
+        <tr class="success">
+            <td>3:00 PM</td>
+            <td></td>
+            <td>Raffle Drawing</td>
+            <td>Lobby</td>
         </tr>
         <!--
         <tr class="success">
