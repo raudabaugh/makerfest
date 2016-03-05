@@ -12,5 +12,20 @@
     "url": "http://www.mcmelectronics.com",
     "type": "gold",
     "donation": "2 Prototype Starter Kits"
+},
+{
+    "name": "Dayton Diode",
+    "logo":"diode_banner_dark.png",
+    "url": "http://www.daytondiode.org/",
+    "type": "gold",
+    "donation": ""
+},
+{
+    "name": "Dayton History",
+    "logo":"daytonhistory.png",
+    "url": "http://www.daytonhistory.org/",
+    "type": "gold",
+    "donation": ""
 }
 ]
+

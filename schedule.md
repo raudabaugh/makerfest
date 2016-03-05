@@ -33,19 +33,31 @@ layout: base
             <td>9:30 AM</td>
             <td>11:30 AM</td>
             <td>Miami Valley Mesh Alliance (MVMA) monthly meeting (public welcome)</td>
-            <td>Stafford Room</td>
+            <td>Einstein Room</td>
         </tr>
         <tr class="success">
             <td>10:00 AM</td>
-            <td></td>
+            <td>10:30 AM</td>
             <td>History of Making and Invention in Dayton by Jim Charters (Admission Tickets to Carillon Historical Park to be raffled after presentation)</td>
             <td>Einstein Room</td>
         </tr>
         <tr class="success">
+            <td>10:30 AM</td>
+            <td>11:00 AM</td>
+            <td>Rail Gun Project by David Wirth</td>
+            <td>Einstein Room</td>
+        </tr>
+        <tr class="success">
+            <td>11:00 AM</td>
+            <td>11:30</td>
+            <td>Virtual Reality by Contact CI</td>
+            <td>Einstein Room</td>
+        </tr>
+        <tr class="success">
             <td>12:00 PM</td>
-            <td>2:00 PM</td>
-            <td>Knitting Guild Meetup</td>
-            <td>Stafford Room</td>
+            <td>12:30 PM</td>
+            <td>Software in the Cloud by Peter Raeth</td>
+            <td>Einstein Room</td>
         </tr>
         <tr class="success">
             <td>1:00 PM</td>
@@ -54,15 +66,15 @@ layout: base
             <td>Einstein Room</td>
         </tr>
         <tr class="success">
-            <td>TBD</td>
-            <td></td>
-            <td>Rail Gun Project by David Wirth</td>
+            <td>2:00 pm</td>
+            <td>2:30</td>
+            <td>Makerspace Panel</td>
             <td>Einstein Room</td>
         </tr>
         <tr class="success">
             <td>3:00 PM</td>
             <td></td>
-            <td>Raffle Drawing</td>
+            <td>Raffle Drawing Join us afterward for the Makerfest Afterparty at <a href="http://www.meetup.com/d8ndiode/events/229291288/">Dayton Diode</a> 7 pm.</td>
             <td>Lobby</td>
         </tr>
         <!--
