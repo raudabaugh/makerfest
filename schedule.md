@@ -33,7 +33,7 @@ layout: base
             <td>9:30 AM</td>
             <td>11:30 AM</td>
             <td>Miami Valley Mesh Alliance (MVMA) monthly meeting (public welcome)</td>
-            <td>Einstein Room</td>
+            <td>TBD</td>
         </tr>
         <tr class="success">
             <td>10:00 AM</td>
