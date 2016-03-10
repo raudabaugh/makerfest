@@ -33,7 +33,7 @@ layout: base
             <td>9:30 AM</td>
             <td>11:30 AM</td>
             <td>Miami Valley Mesh Alliance (MVMA) monthly meeting (public welcome)</td>
-            <td>TBD</td>
+            <td>Stafford Room</td>
         </tr>
         <tr class="success">
             <td>10:00 AM</td>
@@ -84,56 +84,7 @@ layout: base
             <td>Raffle Drawing Join us afterward for the Makerfest Afterparty at <a href="http://www.meetup.com/d8ndiode/events/229291288/">Dayton Diode</a> 7 pm.</td>
             <td>Lobby</td>
         </tr>
-        <!--
-        <tr class="success">
-            <td>10:00 AM</td>
-            <td>10:30 AM</td>
-            <td>Bryan Adams, Tinkr Tech: CNC Machining Demo</td>
-            <td>Atrium</td>
-        </tr>
-        <tr class="info">
-            <td>11:00 AM</td>
-            <td>2:00 PM</td>
-            <td>Lunch: Harvest Food Truck</td>
-            <td>Parking Lot</td>
-        </tr>
-        <tr class="success">
-            <td>11:00 AM</td>
-            <td>2:00 PM</td>
-            <td>Bryan Adams, Tinkr Tech: Learn to Solder ($5/person)</td>
-            <td>Atrium</td>
-        </tr>
-        <tr class="success">
-            <td>12:00 PM</td>
-            <td>12:30 PM</td>
-            <td>Joe McKibben: Dayton Diode - Dayton's Makerspace</td>
-            <td>Einstein</td>
-        </tr>
-        <tr class="success">
-            <td>12:30 PM</td>
-            <td>1:00 PM</td>
-            <td>William Curtice, Miami Valley Mesh Alliance: Introduction to Hamnet Mesh Networks</td>
-            <td>Einstein</td>
-        </tr>
-        <tr class="success">
-            <td>1:00 PM</td>
-            <td>1:30 PM</td>
-            <td>Dr. Emily Fehrman Cory, Ryan Plumley, Bryan Adams, Andy Ford, Nick Del Ghingaro: 3D Printing Lightning Talks and Panel Discussion</td>
-            <td>Einstein</td>
-        </tr>
-        <tr class="success">
-            <td>1:30 PM</td>
-            <td>2:00 PM</td>
-            <td>Eric Vinande: Raspberry Pi Basics</td>
-            <td>Einstein</td>
-        </tr>
-        <tr class="success">
-            <td>2:00 PM</td>
-            <td>2:30 PM</td>
-            <td>Bryan Adams, Tinkr Tech: CNC Machining Demo</td>
-            <td>Atrium</td>
-        </tr>
-        -->
+       
     </tbody>
 </table>
 </div>
