@@ -26,6 +26,13 @@
     "url": "http://www.daytonhistory.org/",
     "type": "gold",
     "donation": ""
+},
+{
+    "name": "STEAMWorks Labs",
+    "logo":"steamworks.png",
+    "url": "https://www.facebook.com/steamworkslabs/?ref=nf",
+    "type": "gold",
+    "donation": ""
 }
 ]
 
