@@ -53,12 +53,19 @@ layout: base
             <td>Virtual Reality by Contact CI</td>
             <td>Einstein Room</td>
         </tr>
+        
         <tr class="success">
             <td>12:00 PM</td>
             <td>12:30 PM</td>
             <td>Software in the Cloud by Peter Raeth</td>
             <td>Einstein Room</td>
         </tr>
+        <tr class="success">
+            <td>12:30 PM</td>
+            <td>1:00 PM</td>
+            <td>Molten Metal for Makers by Sarah Jordan</td>
+            <td>Einstein Room</td>
+        </tr>        
         <tr class="success">
             <td>1:00 PM</td>
             <td>2:00 PM</td>
