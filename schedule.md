@@ -30,6 +30,12 @@ layout: base
             <td>Lobby</td>
         </tr>
         <tr class="success">
+            <td>9:10 AM</td>
+            <td>9:30 AM</td>
+            <td>Mayor Nan Whaley - STEAM Works Labs Membership Presentation</td>
+            <td>Einstein</td>
+        </tr>
+        <tr class="success">
             <td>9:30 AM</td>
             <td>11:30 AM</td>
             <td>Miami Valley Mesh Alliance (MVMA) monthly meeting (public welcome)</td>
